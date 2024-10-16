@@ -11,6 +11,4 @@ Développeuse passionnée par les jeux vidéos, la lecture, le rp et les jdrs.
 
 ## 📫 Contact
 
-- Email : [![Email](https://img.shields.io/badge/Email-marine.deruelle@laposte.net-blue)](mailto:marine.deruelle@laposte.net)
-- LinkedIn : [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20">](https://www.linkedin.com/in/marine-deruelle-088571187/)
-- Twitter : [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20" height="20">](https://x.com/Orphenia)
+[![Email](https://img.shields.io/badge/Email-marine.deruelle@laposte.net-blue)](mailto:marine.deruelle@laposte.net) [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20">](https://www.linkedin.com/in/marine-deruelle-088571187/) [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20" height="20">](https://x.com/Orphenia)
