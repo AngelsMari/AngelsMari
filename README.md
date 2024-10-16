@@ -11,6 +11,6 @@ Développeur passionné par les jeux vidéos, la lecture, le rp et les jdrs.
 
 ## 📫 Contact
 
-- Email : [![Email](https://img.shields.io/badge/Email-@ton_email@example.com-blue)](mailto:marine.deruelle@laposte.net)
-- LinkedIn : [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/marine-deruelle-088571187/)
-- Twitter : [![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png)]([https://twitter.com/tonnom](https://x.com/Orphenia))
+- Email : [<img src="https://img.shields.io/badge/Email-@marine.deruelle@laposte.net-blue" width="20" height="20">](mailto:marine.deruelle@laposte.net)
+- LinkedIn : [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20">](https://www.linkedin.com/in/marine-deruelle-088571187/)
+- Twitter : [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="20" height="20">](https://x.com/Orphenia)
